@@ -1,0 +1,24 @@
+.text--colored {
+  color: #3d8c40 !important; }
+  .text--colored::before, .text--colored::after {
+    background-color: #3d8c40 !important;
+    color: #3d8c40 !important; }
+
+.input-palaceholder--colored:placeholder {
+  color: #3d8c40; }
+
+.border--colored {
+  border-color: #3d8c40 !important; }
+  .border--colored::before, .border--colored::after {
+    border-color: #3d8c40 !important; }
+
+.bg--colored {
+  background-color: #3d8c40 !important; }
+  .bg--colored::before, .bg--colored::after {
+    border-color: #3d8c40 !important; }
+
+.arrow-left--colored:before {
+  background-image: url(../../img/slider/arrow-left--color-9.svg) !important; }
+
+.arrow-right--colored:before {
+  background-image: url(../../img/slider/arrow-right--color-9.svg) !important; }

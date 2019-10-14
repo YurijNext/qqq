@@ -1,0 +1,24 @@
+.text--colored {
+  color: #15b5b0 !important; }
+  .text--colored::before, .text--colored::after {
+    background-color: #15b5b0 !important;
+    color: #15b5b0 !important; }
+
+.input-palaceholder--colored:placeholder {
+  color: #15b5b0; }
+
+.border--colored {
+  border-color: #15b5b0 !important; }
+  .border--colored::before, .border--colored::after {
+    border-color: #15b5b0 !important; }
+
+.bg--colored {
+  background-color: #15b5b0 !important; }
+  .bg--colored::before, .bg--colored::after {
+    border-color: #15b5b0 !important; }
+
+.arrow-left--colored:before {
+  background-image: url(../../img/slider/arrow-left--color-4.svg) !important; }
+
+.arrow-right--colored:before {
+  background-image: url(../../img/slider/arrow-right--color-4.svg) !important; }

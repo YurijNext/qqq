@@ -1,0 +1,24 @@
+.text--colored {
+  color: #ff5411 !important; }
+  .text--colored::before, .text--colored::after {
+    background-color: #ff5411 !important;
+    color: #ff5411 !important; }
+
+.input-palaceholder--colored:placeholder {
+  color: #ff5411; }
+
+.border--colored {
+  border-color: #ff5411 !important; }
+  .border--colored::before, .border--colored::after {
+    border-color: #ff5411 !important; }
+
+.bg--colored {
+  background-color: #ff5411 !important; }
+  .bg--colored::before, .bg--colored::after {
+    border-color: #ff5411 !important; }
+
+.arrow-left--colored:before {
+  background-image: url(../../img/slider/arrow-left--color-8.svg) !important; }
+
+.arrow-right--colored:before {
+  background-image: url(../../img/slider/arrow-right--color-8.svg) !important; }
