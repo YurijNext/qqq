@@ -48,6 +48,11 @@
   background-color: #4F3566;
   color: #fff; }
 
+body, html {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 body {
   font-size: 16px;
   min-width: 320px;
